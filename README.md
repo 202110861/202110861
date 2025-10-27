@@ -24,18 +24,17 @@
 
 
 ## 🧗🏻‍♀️ Activities 
-- **[[유데미x스나이퍼팩토리] UI/UX 인턴형 프로그램](https://blog.naver.com/dbsalsk2514/223489794028)** (2024.06.24 ~ 2024.09.06)
 - **SMU-UMC-7th Web** (2024.09.02 ~ 2025.02.21)
+- **[[유데미x스나이퍼팩토리] UI/UX 인턴형 프로그램](https://blog.naver.com/dbsalsk2514/223489794028)** (2024.06.24 ~ 2024.09.06)
 
 ## ✨ Projects
-- [다이소 앱 개선](https://drive.google.com/file/d/1iZdVE_BbGExGmpaY6S2veDee9qq7YC8J/view?usp=sharing) - Design (2024.06 ~ 2024.07)
-- 프로젝트 관리 사이트 - Frontend (2024.09 ~ 2024.12)
-- [1365 자원봉사포털 개선](https://github.com/202110861/web_programing_Lecture/tree/main/final) - Design, Frontend (2024.11 ~ 2024.12)
-- [[몽땅] 자신이 꾸었던 꿈을 날 것의 그대로 기록할 수 있는 서비스](https://github.com/UMC-I/FE) - Frontend (2025.01)
-- [[찾술] 분실물 찾기 기능과 자리 예약 기능을 제공하는 서비스](https://github.com/UMC-DEMO-PROJECT/Chat-Sul) - Frontend (2024.12 ~ 2025.02)
 - [[Syncly] 실시간 파일·URL 공유 협업 서비스](https://github.com/SynclyProject/Syncly-FE) - Frontend (2025.03 ~ 진행중)
 - [[Clody] 오늘 날씨에 딱 맞는 옷차림 추천 서비스](https://github.com/CLODY2025/clody_web) - Frontend (2025.04 ~ 진행중)
-
+- [[찾술] 분실물 찾기 기능과 자리 예약 기능을 제공하는 서비스](https://github.com/UMC-DEMO-PROJECT/Chat-Sul) - Frontend (2024.12 ~ 2025.02)
+- [[몽땅] 자신이 꾸었던 꿈을 날 것의 그대로 기록할 수 있는 서비스](https://github.com/UMC-I/FE) - Frontend (2025.01)
+- [1365 자원봉사포털 개선](https://github.com/202110861/web_programing_Lecture/tree/main/final) - Design, Frontend (2024.11 ~ 2024.12)
+- 프로젝트 관리 사이트 - Frontend (2024.09 ~ 2024.12)
+- [다이소 앱 개선](https://drive.google.com/file/d/1iZdVE_BbGExGmpaY6S2veDee9qq7YC8J/view?usp=sharing) - Design (2024.06 ~ 2024.07)
 
 
 
