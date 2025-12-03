@@ -53,10 +53,10 @@
 ## 🏆 GitHub Stats & Top Languages
 
 <div>
-  <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=202110861&theme=github_dark" alt="Profile Details"/>
+  <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=202110861&theme=nord_bright" alt="Profile Details"/>
   <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=202110861&theme=github_dark" width="33%" alt="Repos Per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=202110861&theme=github_dark" width="33%" alt="Stats Card"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=202110861&theme=nord_bright" width="33%" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=202110861&theme=nord_bright" width="33%" alt="Stats Card"/>
 </div>
 
 
