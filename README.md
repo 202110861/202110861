@@ -52,6 +52,15 @@
 
 ## 🏆 GitHub Stats & Top Languages
 
+<div>
+  <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=202110861&theme=github_dark" alt="Profile Details"/>
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=202110861&theme=github_dark" width="33%" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=202110861&theme=github_dark" width="33%" alt="Stats Card"/>
+</div>
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=202110861&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=20232a&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
