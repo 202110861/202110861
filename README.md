@@ -24,12 +24,12 @@
 
 
 ## 🧗🏻‍♀️ Activities
-- **kt cloud x goorm 프로팩트** (2025.12 ~ 2026.02) - HeartBit
+- **kt cloud x goorm 프로팩트** (2025.12 ~ 2026.02) : HeartBit
 - **SMU-UMC-7th Web** (2024.09.02 ~ 2025.02.21)
 - **[[유데미x스나이퍼팩토리] UI/UX 인턴형 프로그램](https://blog.naver.com/dbsalsk2514/223489794028)** (2024.06.24 ~ 2024.09.06)
 
 ## ✨ Projects
-- [[HeartBit] 업비트 실시간 시세 호가 체결 데이터를 반영한 코인 시장 거래 서비스](https://github.com/202110861/fe-goorm-project) - Full 
+- [[HeartBit] 업비트 실시간 시세 호가 체결 데이터를 반영한 코인 시장 거래 서비스](https://github.com/202110861/fe-goorm-project) - Full (2025.12 ~ 2026.02)
 - [[Syncly] 실시간 파일·URL 공유 협업 서비스](https://github.com/202110861/Syncly-FE) - Frontend (2025.03 ~ 2025.11)
 - [[Clody] 오늘 날씨에 딱 맞는 옷차림 추천 서비스](https://github.com/CLODY2025/clody_web) - Frontend (2025.04 ~ 2025.06)
 - [[찾술] 분실물 찾기 기능과 자리 예약 기능을 제공하는 서비스](https://github.com/UMC-DEMO-PROJECT/Chat-Sul) - Frontend (2024.12 ~ 2025.02)
